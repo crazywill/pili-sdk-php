@@ -11,5 +11,5 @@ require(join(DIRECTORY_SEPARATOR, array($root, 'Pili', 'Transport.php')));
 require(join(DIRECTORY_SEPARATOR, array($root, 'Pili', 'Api.php')));
 require(join(DIRECTORY_SEPARATOR, array($root, 'Pili', 'Hub.php')));
 require(join(DIRECTORY_SEPARATOR, array($root, 'Pili', 'Stream.php')));
-
+require(join(DIRECTORY_SEPARATOR, array($root, 'Pili', 'RoomClient.php')));
 ?>
