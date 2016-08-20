@@ -2,7 +2,7 @@
 
 require(join(DIRECTORY_SEPARATOR, array(dirname(dirname(__FILE__)), 'lib', 'Pili.php')));
 
-$ak = "Tn8WCjE_6SU7q8CO3-BD-yF4R4IZbHBHeL8iiQ9t";
+$ak = "Tn8WCjE_6SU7q8CO3-BD-yF4R4IZbHBHeL8Q9t";
 $sk = "vLZNvZDojo1F-bYOjOqQ43-NYqlKAej0e9OweInh";
 
 $mac = new Qiniu\Credentials($ak, $sk);
